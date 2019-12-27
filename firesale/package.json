@@ -1,0 +1,17 @@
+{
+  "name": "firesale",
+  "version": "1.0.0",
+  "description": "markdown note",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.1.6",
+    "marked": "^0.8.0"
+  }
+}
